@@ -1,4 +1,4 @@
-# 🚀 TaskFlow - Full Stack Task Management System
+# 🚀 Full Stack Task Management System
 
 A professional full-stack task management web application that allows users to securely manage daily tasks through a clean and responsive dashboard.
 
@@ -7,7 +7,7 @@ This project demonstrates complete frontend–backend integration, REST API desi
 ---
 
 # 🧠 Project Overview
-TaskFlow is a full-stack productivity web application where users can:
+A full-stack productivity web application where users can:
 
 - Securely login using JWT authentication  
 - Create and manage daily tasks  
@@ -125,7 +125,6 @@ docker compose up -d
 ---
 
 # 📸 Screenshots
-(Add your screenshots here)
 
 ### Login Page
 ![Login](screenshots/login.png)
