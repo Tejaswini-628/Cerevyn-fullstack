@@ -133,9 +133,6 @@ docker compose up -d
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Add Task
-![Add Task](screenshots/addtask.png)
-
 ### Tasks List
 ![Tasks](screenshots/tasks.png)
 
