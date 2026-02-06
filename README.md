@@ -1,4 +1,4 @@
-# 🚀 TaskFlow – Full Stack Task Management System
+# 🚀 TaskFlow - Full Stack Task Management System
 
 A professional full-stack task management web application that allows users to securely manage daily tasks through a clean and responsive dashboard.
 
